@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on learn programming and assist education and technology
 - 📫 How to reach me annalauracastropp@gmail.com
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
+	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
 
