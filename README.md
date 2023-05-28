@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Anna+Laura,+estudante+de+Ccomp+UFT+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-<div>
-  ![Anna Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=annalaura2&show_icons=true&theme=tokyonight&count_private=true)
+
+ ![Anna Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=annalaura2&show_icons=true&theme=tokyonight&count_private=true)
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annalaura2&layout=compact&langs_count=7&theme=radical"/>
- </div>
+ 
 ## Tecnologias que eu uso no meu dia
 
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
