@@ -1,5 +1,10 @@
 ## Olá! Eu sou Anna Laura 🖐️
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Anna+Laura,+estudante+de+ADS+FATEC+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
 
 ![Anna Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=annalaura2&show_icons=true&theme=tokyonight&count_private=true)
 
@@ -23,8 +28,6 @@
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![KaliLinux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=annalaura2&theme=gotham)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
