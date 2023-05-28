@@ -1,7 +1,7 @@
 ## Olá! Eu sou Anna Laura 🖐️
 
 
-![Anna Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=annalaura2&show_icons=true&theme=dracula&count_private=true)
+![Anna Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=annalaura2&show_icons=true&theme=dark&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
