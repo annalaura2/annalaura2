@@ -14,6 +14,8 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?annalaura2=anuraghazra&hide_progress=true)](https://github.com/annalaura2/github-readme-stats)
+
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 
