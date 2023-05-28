@@ -24,6 +24,7 @@
 ![KaliLinux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=annalaura2&theme=gotham)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
