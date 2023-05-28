@@ -8,7 +8,6 @@
 
  ![Anna Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=annalaura2&show_icons=true&theme=gotham&count_private=true)
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annalaura2&layout=compact&langs_count=7&theme=gotham"/>
-  [![Anna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=annalaura2)](https://github.com/annalaura2/github-readme-stats)
 
  
 ### Skills:
