@@ -6,7 +6,7 @@
 
 <div align="center">  
 
- ![Anna Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=annalaura2&show_icons=true&theme=tokyonight&count_private=true)
+ ![Anna Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=annalaura2&show_icons=true&theme=gotham&count_private=true)
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annalaura2&layout=compact&langs_count=7&theme=radical"/>
  
 ### Skills:
