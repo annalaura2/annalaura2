@@ -29,6 +29,8 @@
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![KaliLinux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annalaura2" alt="annalaura2" /></a> </p>
+
 
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
