@@ -38,7 +38,9 @@
 <br/>
 
 <a href="https://github.com/annalaura2" title="Perfil da Anna <3 ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annalaura2&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annalaura2&theme=dracula&show_icons=true" /> 
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annalaura2&layout=compact&langs_count=10&theme=dracula"/>
 </a>
 
 ### *Contacts*
