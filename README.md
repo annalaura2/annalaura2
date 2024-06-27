@@ -1,5 +1,5 @@
-
-![](https://komarev.com/ghpvc/?username=annalaura2&color=006bed)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
 
 ## About me
 
@@ -48,5 +48,8 @@
 [![Linkedin](https://img.shields.io/badge/-annalaura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-laura-39158821a/)](https://www.linkedin.com/in/anna-laura-39158821a/)
 [![Gmail Badge](https://img.shields.io/badge/-annalauracodes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annalauracodes@gmail.comL)](mailto:annalauracodes@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/annalaura2?label=follow&style=social)](https://github.com/annalaura2)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
 
 
