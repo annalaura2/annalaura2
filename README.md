@@ -3,7 +3,7 @@
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Computer Science at the Federal University of Tocantins.
-- 💼 Working as a Frontend Developer - React at Ooka Tecnologia.
+- 💼 Working as a Full-Stack Developer at Ooka Tecnologia.
 
 ## Skills
 
