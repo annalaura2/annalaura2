@@ -46,8 +46,6 @@ Acredito que tecnologia bem aplicada transforma negócios e vidas, e é com esse
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annalaura2&layout=compact&langs_count=10&theme=dracula"/>
 </a>
 
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-Anna%20Laura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-laura-39158821a/)](https://www.linkedin.com/in/anna-laura-39158821a/)  
