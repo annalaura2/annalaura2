@@ -6,7 +6,6 @@ Nos últimos meses, venho direcionando meus estudos e projetos para a área de e
 
 Acredito que tecnologia bem aplicada transforma negócios e vidas, e é com esse propósito que sigo evoluindo como profissional.
 
----
 ## 🚀 Tecnologias e Ferramentas
 
 ### *Linguagens e Frameworks*
