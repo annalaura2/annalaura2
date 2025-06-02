@@ -40,9 +40,6 @@ Acredito que tecnologia bem aplicada transforma negócios e vidas, e é com esse
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
----
-
-## 📈 Estatísticas
 
 <a href="https://github.com/annalaura2" title="Perfil da Anna <3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annalaura2&theme=dracula&show_icons=true" /> 
