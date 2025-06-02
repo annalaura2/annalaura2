@@ -1,11 +1,12 @@
 ## Sobre mim
 
-🎓 Estudante de Ciência da Computação na Universidade Federal do Tocantins, atualmente no sexto semestre.  
-💻 Desenvolvedora Full-Stack com experiência em criação de soluções digitais eficientes, e agora ampliando horizontes com foco em Engenharia de Dados.  
-📊 Tenho atuado em projetos de e-commerce, automação, integração de APIs e sistemas personalizados — e estou me aprofundando no universo dos dados para unir backend robusto com inteligência analítica.  
-🚀 Curiosa por natureza, estou sempre em busca de tecnologias que otimizem processos e melhorem a experiência do usuário.
+Sou estudante de Ciência da Computação na Universidade Federal do Tocantins, atualmente no sexto semestre, com experiência como desenvolvedora full stack. Tenho atuado em projetos voltados à criação de soluções digitais, como plataformas de e-commerce, sistemas personalizados e integrações de APIs, sempre com foco em performance, usabilidade e automação de processos.
 
+Nos últimos meses, venho direcionando meus estudos e projetos para a área de engenharia de dados, buscando unir minha bagagem em desenvolvimento com conhecimentos em arquitetura de dados, pipelines, ETL e análise. Estou construindo um portfólio que reflete essa transição, explorando tecnologias que integram backend robusto com tratamento inteligente da informação.
 
+Acredito que tecnologia bem aplicada transforma negócios e vidas, e é com esse propósito que sigo evoluindo como profissional.
+
+---
 ## 🚀 Tecnologias e Ferramentas
 
 ### *Linguagens e Frameworks*
