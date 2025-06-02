@@ -5,7 +5,6 @@
 📊 Tenho atuado em projetos de e-commerce, automação, integração de APIs e sistemas personalizados — e estou me aprofundando no universo dos dados para unir backend robusto com inteligência analítica.  
 🚀 Curiosa por natureza, estou sempre em busca de tecnologias que otimizem processos e melhorem a experiência do usuário.
 
----
 
 ## 🚀 Tecnologias e Ferramentas
 
