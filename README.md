@@ -16,7 +16,7 @@
 ---
 
 - 👩‍💻 Desenvolvedora Full-Stack e estudante de Ciência da Computação na Universidade Federal do Tocantins  
-- 💼 Experiência com desenvolvimento de sistemas web, e-commerces e landing pages otimizadas  
+- 💼 Atualmente atuo como Estagiária em Desenvolvimento de Software na Target Sistemas. Experiência com desenvolvimento de sistemas web, e-commerces e landing pages otimizadas  
 - 🌱 Estudando Engenharia de Dados e apaixonada por soluções que otimizam processos  
 - 💬 Fale comigo sobre desenvolvimento front-end, back-end, UX/UI ou integração de APIs  
 
