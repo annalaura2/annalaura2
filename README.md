@@ -50,7 +50,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-F24E1E?style=for-the-badge&logo=sourcetree&logoColor=white)
 
-![Anna Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=annalaura2&show_icons=true&theme=dracula) - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalaura2&layout=compact&theme=dracula) 
+![Anna Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=annalaura2&show_icons=true&theme=dracula) 
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalaura2&layout=compact&theme=dracula) 
 
 ## 📬 Entre em contato
 
