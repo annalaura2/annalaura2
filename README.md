@@ -15,7 +15,7 @@
 
 ---
 
-- 👩‍💻 Backend Developer and Computer Science student at the Federal University of Tocantins (UFT), with knowledge of C#, SQL, Java, and Spring Boot.
+- 👩‍💻 Backend Developer and Software Engineering student, with knowledge of C#, SQL, Java, and Spring Boot.
 
 - 💼 Currently working as a Software Development Intern at Target Sistemas.
 
