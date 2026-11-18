@@ -15,11 +15,11 @@
 
 ---
 
-- 👩‍💻 Backend Developer and Software Engineering student, with knowledge of C#, SQL, Java, and Spring Boot.
+- 👩‍💻 FullStack Developer and Software Engineering student, with knowledge of C#, SQL, Java, and Spring Boot.
 
-- 💼 Currently working as a Software Development Intern at Target Sistemas.
+- 💼 Currently working as a Software Development at Target Sistemas.
 
-- 💬 Feel free to talk to me about front-end and back-end development, UX/UI, or API integrations.
+- 💬 Feel free to talk to me about fullstack development, UX/UI, or API integrations.
 
 ### 🔧 Languages
 
